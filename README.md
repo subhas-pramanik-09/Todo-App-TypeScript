@@ -4,6 +4,12 @@
 
 ![Screenshot 2025-02-11 004846](https://github.com/user-attachments/assets/d41d2d18-aaca-48ec-b4a9-dbac44de120a)
 
+# Installation
+
+1. Clone this repository
+2. ```cd Todo-App-TypeScript```
+3. ```npm run dev```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
